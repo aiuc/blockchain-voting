@@ -1,6 +1,4 @@
 # blockchain-voting
-a blockchain voting system developed in C
+A blockchain voting system developed in C language.
 
-# Hash table
-
-[[COMPTE_RENDU.pdf]]
+Project report in: [[COMPTE_RENDU.pdf]]
