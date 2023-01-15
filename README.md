@@ -12,3 +12,5 @@ Le processus électoral doit conserver sa fonctionnalité d’anonymat ainsi que
 - Partie 3 : Manipulation d’une base centralisée de déclarations. 
 - Partie 4 : Implémentation d’un mécanisme de consensus. 
 - Partie 5 : Manipulation d’une base décentralisée de déclarations.
+
+Concernant l’utilisation d’une blockchain dans le cadre d’un processus de vote : le système de blockchain résout la plupart des problèmes rencontrés avec les autres structures de données centralisées. Ça permet notamment de bien sécuriser le processus, mais ça le rend plus long.
